@@ -1,5 +1,5 @@
 PHÂN TÍCH VÀ THIẾT KẾ CSDL QUẢN LÝ CLB BÓNG ĐÁ MySQL 
-- Mô tả bài toán:  Một Liên Đoàn Bóng Đá muốn thiết kế csdl để quản lý các câu clb, giải đấu, cầu thủ, 
+-- Mô tả bài toán:  Một Liên Đoàn Bóng Đá muốn thiết kế csdl để quản lý các câu clb, giải đấu, cầu thủ, 
 hlv,…với các thông tin sau:
 + LĐBĐ quản lý nhiều clb bóng đá. Thông tin các clb bóng đá gồm: mã clb, tên, 
 ngày lập, cty sở hữu, người qly, địa điểm. 
@@ -21,7 +21,7 @@ Thông tin danh hiệu bao gồm: mã danh hiệu,mã giải đấu, tên danh 
 viên có 1 hoặc nhiều danh hiệu, và 1 danh hiệu thuộc về 1 hoặc nhiều nhân viên . 
 Thời gian trao tặng danh hiệu cũng được ghi lại. 
 + Sân thi đấu sẽ gồm mã sân, tên, địa điểm , clb quản lý.
--  Quy trình thực tế liên quan đến bài toán:
+--  Quy trình thực tế liên quan đến bài toán:
 1) Liên đoàn bóng đá được thành lập để tổ chức các giải đấu và quản lý các CLB 
 2) Các CLB xin phép tham gia vào Liên đoàn bóng đá : để một CLB được phép 
 thành lập, được công nhận và cũng như tham gia vào các giải đấu do Liên đoàn 
